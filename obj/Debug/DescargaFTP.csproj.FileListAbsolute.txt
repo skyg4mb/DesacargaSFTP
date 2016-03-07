@@ -1,0 +1,9 @@
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\bin\Debug\DescargaFTP.exe.config
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\bin\Debug\DescargaFTP.exe
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\bin\Debug\DescargaFTP.pdb
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\obj\Debug\DescargaFTP.csprojResolveAssemblyReference.cache
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\obj\Debug\DescargaFTP.exe
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\obj\Debug\DescargaFTP.pdb
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\bin\Debug\DiffieHellman.dll
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\bin\Debug\Org.Mentalis.Security.dll
+c:\users\dagamboape\documents\visual studio 2013\Projects\DescargaFTP\DescargaFTP\bin\Debug\Tamir.SharpSSH.dll
